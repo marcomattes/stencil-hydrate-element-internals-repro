@@ -1,0 +1,10 @@
+{
+  "name": "stencil-hydrate-element-internals-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "stencil build",
+    "repro": "node repro.mjs"
+  },
+  "dependencies": { "@stencil/core": "4.45.2" }
+}
